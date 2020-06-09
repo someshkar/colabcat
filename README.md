@@ -18,3 +18,16 @@ Run [Hashcat](https://hashcat.net) on [Google Colab](https://colab.research.goog
 Colabcat creates a symbolic link between the `dothashcat` folder in your Google Drive and the `/root/.hashcat` folder on the Google Colab session.
 
 This enables seamless session restore even if your Google Colab gets disconnected or you hit the time limit for a single session, by syncing the `.restore`, `.log` and the `.potfile` files across Google Colab sessions by storing them in your Google Drive.
+
+## Benchmarks
+
+The `benchmarks` directory in this repository lists `.txt` files with hashcat benchmarks run with `hashcat -b`. The list of known Google Colab GPUs are listed below. An up to date list can be found in the [Colab FAQ](https://research.google.com/colaboratory/faq.html).
+
+- Nvidia Tesla K80
+- Nvidia Tesla T4
+- Nvidia Tesla P4
+- Nvidia Tesla P100
+
+## Contributing
+
+Issues and Pull Requests are always welcome. Feel free to contribute new Colab GPU benchmarks and features.
