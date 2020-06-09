@@ -5,7 +5,7 @@ Run [Hashcat](https://hashcat.net) on [Google Colab](https://colab.research.goog
 ## Usage
 
 - Go to the link below to open a copy of the `colabcat.ipynb` file in Google Colab:
-  colab.research.google.com/github/someshkar/colabcat/blob/master/colabcat.ipynb
+  https://colab.research.google.com/github/someshkar/colabcat/blob/master/colabcat.ipynb
 - Click on `Runtime`, `Change runtime type`, and set `Hardware accelerator` to GPU.
 - Go to your Google Drive and create a directory called `dothashcat`, with a `hashes` subdirectory where you can store hashes.
 - Come back to Google Colab, click on `Runtime` and then `Run all`.
