@@ -2,6 +2,9 @@
 
 Run [Hashcat](https://hashcat.net) on [Google Colab](https://colab.research.google.com) with session restore capabilities with Google Drive.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/someshkar/colabcat]
+
+
 ## Usage
 
 - Go to the link below to open a copy of the `colabcat.ipynb` file in Google Colab:
