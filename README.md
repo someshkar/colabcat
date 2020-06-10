@@ -28,6 +28,10 @@ The `benchmarks` directory in this repository lists `.txt` files with hashcat be
 - Nvidia Tesla P4
 - Nvidia Tesla P100
 
+## Similar projects
+
+- [mxrch/penglab](https://github.com/mxrch/penglab) : This is great if you're looking to use other tools like John and Hydra on Colab too.
+
 ## Contributing
 
 Issues and Pull Requests are always welcome. Feel free to contribute new Colab GPU benchmarks and features.
